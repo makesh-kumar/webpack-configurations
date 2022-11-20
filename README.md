@@ -8,6 +8,7 @@
 - **Used all minifying and optimization plugins to improve performance.**
 - **Configured different plugins for Dev and Prod builds.**
 - **Used loaders to convert Saas & TS files**
+- **Extracted CSS into separate files for Prod, instead of injecting it in HTML**
 - **Used babel loader to support old browsers.**
 - **Added hash content code tn final bundle files, to improve browser caching.**
 - **Splitted final bundle into multiple files to separate my own code and third-party(vendor) code.**
