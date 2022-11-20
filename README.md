@@ -16,7 +16,7 @@
 - **Used webpack-dev-server for serving the app in dev**
 
 ### Plugins used :
-> `html-webpack-plugin` , `"mini-css-extract-plugin`, `clean-webpack-plugin`, `css-minimizer-webpack-plugin`,
+> `html-webpack-plugin`  `"mini-css-extract-plugin`  `clean-webpack-plugin`  `css-minimizer-webpack-plugin`
 
 ### Loaders used
-> `babel-loader`, `css-loader`, `file-loader`, `html-loader`, `sass-loader`, `style-loader`, `ts-loader`,
+> `babel-loader`  `css-loader`  `file-loader`  `html-loader`  `sass-loader`  `style-loader`  `ts-loader`
